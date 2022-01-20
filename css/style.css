@@ -1,22 +1,6 @@
-/* =================================
-------------------------------------
-  	Template Name: Photographer
-	Description: Photographer HTML Template
-	Author: colorlib
-	Author URI: https://www.colorlib.com/
-	Version: 1.0
-	Created: colorlib
- ------------------------------------
- ====================================*/
-
-
-
-/*----------------------------------------*/
-/* Template default CSS
-/*----------------------------------------*/
-
 html,
 body {
+	background-color: black;
 	height: 100%;
 	font-family: "Poppins", sans-serif;
 	-webkit-font-smoothing: antialiased;
